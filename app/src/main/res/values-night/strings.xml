@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="running_text">Running</string>
+    <string name="cycling_text">Cycling</string>
+    <string name="cycling_fragment">Cycling Fragment</string>
+    <string name="running_fragment_text">Running Fragment</string>
+</resources>
